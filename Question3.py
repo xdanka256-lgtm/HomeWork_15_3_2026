@@ -16,3 +16,4 @@ def group_numbers(nums: list) -> dict:
 
 nums = [4, -2, 0, 7, -5, 3]
 print(group_numbers(nums))
+
